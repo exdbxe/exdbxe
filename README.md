@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on E-Commerce Website, Web App, Mobile Applications<br>👯 I’m looking to collaborate on Google, AliBaba Cloud, Claude AI<br>🤝 I’m looking for help with basic learning of DataBase, mySQL etc.<br>🌱 I’m currently learning Full Stack Developer on Coursera from IBM.<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on E-Commerce Website, Web App, Mobile Applications<br>👯 I’m looking forward to get a start-up on Google, AliBaba Cloud, AWS<br>🤝 I’m looking for help with basic learning of DataBase, mySQL etc.<br>🌱 I’m currently learning Full Stack Developer on Coursera from IBM.<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
